@@ -2,7 +2,7 @@
   display: inline-block;
   width: var(--bmt-icon-size, 24px);
   height: var(--bmt-icon-size, 24px);
-  background-image: url('https://cdn.jsdelivr.net/gh/yourusername/bmt-icons/icons/your-icon.svg');
+  background-image: url('https://cdn.jsdelivr.net/gh/yourusername/bmt-icons/your-icon.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
